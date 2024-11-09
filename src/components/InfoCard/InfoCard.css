@@ -1,0 +1,32 @@
+.Info-card {
+  background-color: white;
+  width: 100%;
+
+  overflow: auto;
+  margin: 10px;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 15px 15px 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Info-card-title {
+  font-size: 30px;
+  font-family: "Open Sans";
+  font-weight: 600;
+  font-style: italic;
+}
+
+.Info-card-decor {
+  background-color: #e0c256;
+  height: 10px;
+  min-height: 10px;
+  width: 25%;
+  margin: 10px;
+}
+
+.Info-card-text {
+  margin: 10px 10px 10px 10px;
+}
