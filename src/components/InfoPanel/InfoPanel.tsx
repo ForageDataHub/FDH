@@ -30,7 +30,7 @@ function InfoPanel() {
             text="The National Forage Data Hub (FDH) is a community-driven forage database
             which aims to serve as a central repository and open-source platform for sharing
             forage related data. The FDH is currently under development as a part of the
-            Resilience CAP grant, a 5-year ongoing project aimed at improving resilience of
+            Resilience CAP, a 5-year ongoing project aimed at improving resilience of
             agricultural systems. This site is a temporary homepage for the FDH; the full-scale
             data hub will include interactive user interfaces for exploring and querying forage
             data, tools for formatting, downloading, and citing data, a streamlined
