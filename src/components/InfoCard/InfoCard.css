@@ -1,7 +1,6 @@
 .Info-card {
   background-color: white;
   width: 100%;
-
   overflow: auto;
   margin: 10px;
   border-radius: 15px;
@@ -14,7 +13,6 @@
 
 .Info-card-title {
   font-size: 30px;
-  font-family: "Open Sans";
   font-weight: 600;
   font-style: italic;
 }
