@@ -21,6 +21,18 @@ function InfoPanel() {
               <i>Contribute</i>
             </h2>
           </Button>
+          <Button
+            as="a"
+            href="https://foragedatahub.github.io/FDH-maps/"
+            target="_blank"
+            rel="noopener noreferrer"
+            variant="primary"
+            className="Contribute-button"
+          >
+            <h2 style={{ paddingTop: 10 }}>
+              <i>Explore</i>
+            </h2>
+          </Button>
         </Col>
       </Row>
       <Row className="Info-panel-row">
