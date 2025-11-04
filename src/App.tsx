@@ -1,8 +1,7 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import RCAP_logo from "./assets/RCAP_logo.png";
-//import "./App.css";
-import "./App2.css";
+import "./App.css";
 import InfoPanel from "./components/InfoPanel/InfoPanel";
 
 function App() {
